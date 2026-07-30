@@ -1,10 +1,6 @@
-<h1 align="center">Hi there, I'm Siddhi 👋</h1>
-
-<h3 align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+RAG+%2F+LLM-Powered+Systems;Python+%7C+FastAPI+%7C+Vector+Search;DSA+%26+Problem+Solving" alt="Typing SVG" />
-  </a>
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EBFA5,100:6E56CF&height=180&section=header&text=Hi,%20I'm%20Siddhi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20RAG%20%26%20AI%20Systems&descAlignY=62&descSize=18" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhi-varma-70a8b5292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
