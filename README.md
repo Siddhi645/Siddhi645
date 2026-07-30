@@ -2,14 +2,13 @@
 
 <h3 align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+RAG+%2F+LLM-Powered+Systems;Python+%7C+FastAPI+%7C+Vector+Search;DSA+%26+Competitive+Programming" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+RAG+%2F+LLM-Powered+Systems;Python+%7C+FastAPI+%7C+Vector+Search;DSA+%26+Problem+Solving" alt="Typing SVG" />
   </a>
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddhi-varma-70a8b5292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:siddhivarma05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="tel:8010596940"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 ---
@@ -70,4 +69,4 @@ Computer Science undergraduate passionate about **backend engineering, full-stac
 
 ---
 
-<p align="center">✨ Thanks for stopping by — always up for a chat about DSA, MERN, or AI/RAG systems! ✨</p>
+<p align="center">✨ Thanks for stopping by — always up for discussing DSA, MERN, or AI/RAG systems! ✨</p>
