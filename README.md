@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:134e4a,100:2EBFA5&height=200&section=header&animation=fadeIn&fontColor=ffffff" width="100%" alt="header" />
-
 <h1>Hi there, I'm Siddhi 👋</h1>
 
 <a href="https://readme-typing-svg.demolab.com">
@@ -89,5 +87,3 @@ Computer Science undergraduate passionate about **backend engineering, full-stac
 <br/>
 
 <p align="center">✨ <i>Thanks for stopping by — always up for discussing DSA, MERN, or AI/RAG systems!</i> ✨</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:134e4a,100:2EBFA5&height=120&section=footer" width="100%" alt="footer" />
